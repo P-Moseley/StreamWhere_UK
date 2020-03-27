@@ -1,0 +1,7 @@
+{
+  "name": "StreamWhere",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
